@@ -1,6 +1,0 @@
-{
-  "name": "Mod2 sol",
-  "tagline": "Assignment for Module 2",
-  "body": "\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device width, initial-scale=1\">\r\n    <title>Coursera: HTML, CSS, JS Module 2 Assignment</title>\r\n    <link rel=\"stylesheet\" href=\"css/mod2style.css\">\r\n</head>\r\n\r\n<body>\r\n<h1> HTML, CSS and Javascript </h1>\r\n<div class=\"col3_lg col2_md\">\r\n\t<p class=\"title\" id=\"HTML\"> HTML </p>\r\n\t<p> HTML is a markup language for describing web documents (web pages). HTML stands for Hyper Text Markup Language.</p>\r\n</div>\r\n<div class=\"col3_lg col2_md\">\r\n\t<p class=\"title\" id=\"CSS\"> CSS </p>\r\n\t<p>CSS is a style sheet language used for describing the presentation of a document written in a markup language.</p>\r\n</div>\r\n<div class=\"col3_lg col1_md\">\r\n\t<p class=\"title\" id=\"JS\"> Javascript </p>\r\n\t<p> JavaScript is the programming language of HTML and the Web. Programming makes computers do what you want them to do.</p>\r\n</div>\r\n</body>\r\n</html>",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
